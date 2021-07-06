@@ -1,5 +1,5 @@
-<h2>Hi there ! I'm Dylan Tran<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><h2>
-<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width='50'>
+<p align="center">Hi there !!!</p>
+<p align="center">I'm Dylan<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
