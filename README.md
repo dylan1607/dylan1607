@@ -1,5 +1,4 @@
-<h2>Wellcome to my repositories !!!</h2>
-<p align="left">
+<p align="center">
   <img src="./code.gif">
 </p> 
 
@@ -15,7 +14,7 @@
   </a>
 </p>
 
-
+<p align="center">Wellcome to my Repositories !!!</p>
 ### <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50"> A little more about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 ```javascript
 const dylan = {
