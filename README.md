@@ -1,4 +1,4 @@
-<p align="center"><h2>Wellcome to my repositories !!!</h2></p>
+## Wellcome to my repositories !!!
 <p align="center">
   <img src="./code.gif">
 </p>
@@ -17,3 +17,11 @@
 
 
 ### <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50"> A little more about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+``javascript
+const dylan = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, C#, Embedded],
+  tools: [React, Docker, Github, Arduino, PLC],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react"
+}
+```
