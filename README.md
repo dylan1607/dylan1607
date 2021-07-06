@@ -1,4 +1,4 @@
-<p align="center">Wellcome to my reposi !!!</p>
+<p align="center"><h2>Wellcome to my repositories !!!<h2></p>
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
@@ -16,4 +16,4 @@
 </p>
 
 
-### <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50"> A little more about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+### <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50"> A little more about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
