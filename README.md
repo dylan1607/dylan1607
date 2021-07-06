@@ -23,7 +23,11 @@
   
 ```javascript
 const dylan = {
-  pronouns: "he" | "him",
+  pronouns: "He" | "Him",
+  name: "Tran Vu Nguyen",
+  location: "Ho Chi Minh city, VietNam",
+  language: ["English", "Vietnamese"],
+  major: "Software Developer",
   code: [Javascript, HTML, CSS, Python, C#, Embedded],
   tools: [React, Docker, Github, Arduino, PLC],
   challenge: "I am doing the #100DaysOfCode challenge focused on react"
