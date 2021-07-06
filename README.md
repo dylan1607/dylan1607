@@ -16,8 +16,8 @@
 
 ## Wellcome to my Repositories !!!
 
-[![Linkedin: Dylan Tran](https://img.shields.io/badge/thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tran-dylan/)](https://www.linkedin.com/in/tran-dylan/)
-[![GitHub Dyan Tran](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/dylan1607)
+[![Linkedin: Dylan Tran](https://img.shields.io/badge/DylanTran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tran-dylan/)](https://www.linkedin.com/in/tran-dylan/)
+[![GitHub Dyan Tran](https://img.shields.io/github/followers/DylanTran?label=follow&style=social)](https://github.com/dylan1607)
 
 ### <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50">A little more about me... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   
