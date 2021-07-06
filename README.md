@@ -17,7 +17,7 @@
 
 
 ### <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50"> A little more about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-``javascript
+```javascript
 const dylan = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, C#, Embedded],
