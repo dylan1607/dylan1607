@@ -1,6 +1,5 @@
-<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif">
-<h2>Hi there ! I'm Dylan Tran <h2>
-<img align='right' width='230' src='![IMG_9951 2](https://user-images.githubusercontent.com/67869620/124604721-6a4f3000-de95-11eb-916c-4aa8ea4edc8b.jpg)'>
+<h2>Hi there ! I'm Dylan Tran<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><h2>
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width='50'>
 
 
 <!--
