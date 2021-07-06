@@ -15,6 +15,7 @@
 </p>
 
 <p align="left">Wellcome to my Repositories !!!</p>
+
 ### <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50">A little more about me... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   
 ```javascript
@@ -25,3 +26,6 @@ const dylan = {
   challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 ```
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
