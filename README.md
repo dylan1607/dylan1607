@@ -1,7 +1,7 @@
-## Wellcome to my repositories !!!
 <p align="center">
+  <h2>Wellcome to my repositories !!!</h2>
   <img src="./code.gif">
-</p>
+</p> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tran-dylan" target="_blank">
