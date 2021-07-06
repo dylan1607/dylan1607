@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif">
+<h2>Hi there ! I'm Dylan Tran <h2>
+
 
 <!--
 **dylan1607/dylan1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
