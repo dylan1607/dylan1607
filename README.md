@@ -1,5 +1,5 @@
 <h2>Wellcome to my repositories !!!</h2>
-<p align="center">
+<p align="left">
   <img src="./code.gif">
 </p> 
 
