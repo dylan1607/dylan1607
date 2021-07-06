@@ -1,6 +1,6 @@
-<p align="center"><h2>Wellcome to my repositories !!!<h2></p>
+<p align="center"><h2>Wellcome to my repositories !!!</h2></p>
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img src="./code.gif">
 </p>
 
 <p align="center">
