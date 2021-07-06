@@ -1,9 +1,9 @@
+<h2>Wellcome to my repositories !!!</h2>
 <p align="center">
-  <h2>Wellcome to my repositories !!!</h2>
   <img src="./code.gif">
 </p> 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/tran-dylan" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
