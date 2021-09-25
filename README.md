@@ -23,13 +23,14 @@
   
 ```javascript
 const dylan = {
-  pronouns: "He" | "Him",
-  name: "Tran Vu Nguyen",
+  pronouns: "He" || "Him",
+  name: "Dylan Tran" || "Tran Vu Nguyen",
   location: "Ho Chi Minh city, VietNam",
   language: ["English", "Vietnamese"],
   major: "Software Developer",
-  code: [React, React-Native, Javascript, HTML, CSS, SCSS, Python, C#, Embedded],
-  tools: [Visual Code, Visual Studio, Docker, Github],
+  code: [React, React-Native, Javascript, HTML, CSS, Python, C#, Embedded],
+  database : [AWS, SQL, Firebase]
+  tools: [Visual Code, Visual Studio, Docker, Github, Postman],
   hardware: [Macbook, Arduino, Raspberry Pi, Programmable Logic Controller]
   challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
