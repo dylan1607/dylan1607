@@ -17,7 +17,7 @@
 ## Wellcome to my Repositories !!!
 
 [![Linkedin: Dylan Tran](https://img.shields.io/badge/DylanTran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tran-dylan/)](https://www.linkedin.com/in/tran-dylan/)
-[![GitHub Dyan Tran](https://img.shields.io/github/followers/DylanTran?label=follow&style=social)](https://github.com/dylan1607)
+[![GitHub Dyan Tran](https://img.shields.io/github/followers/dylan1607?label=follow&style=social)](https://github.com/dylan1607)
 
 ### <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50">A little more about me... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   
@@ -28,10 +28,9 @@ const dylan = {
   location: "Ho Chi Minh city, VietNam",
   language: ["English", "Vietnamese"],
   major: "Software Developer",
-  code: [React, React-Native, Javascript, HTML, CSS, Python, C#, Embedded],
-  database : [AWS, SQL, Firebase]
-  tools: [Visual Code, Visual Studio, Docker, Github, Postman],
-  hardware: [Macbook, Arduino, Raspberry Pi, Programmable Logic Controller]
+  code: [React, React-Native, Javascript, HTML, CSS],
+  cloud_servies : [AWS, Azure]
+  tools: [Visual Code, Visual Studio, Docker, Github, Jira, K8s],
   challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 ```
