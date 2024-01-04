@@ -6,9 +6,9 @@
 
 # 📖 Table of Contents
 
-- [📌 A little more about me ](#a-little-more-about-me-)
-- [💡 Language mostly use ](#language-mostly-use-in-repo-)
-- [✅ Github Contribution ](#github-contribution-)
+- [📌 A little more about me ](#a-little-more-about-me)
+- [💡 Language mostly use ](#language-mostly-use-in-repo)
+- [✅ Github Contribution ](#github-contribution)
 
 # A little more about me
 
