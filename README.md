@@ -1,7 +1,6 @@
 # Wellcome to my Repositories !!!
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C)](https://instagram.com/nguyeen.nguyeen)
-[![Linkedin: Dylan Tran](https://img.shields.io/badge/DylanTran-blue?style=for-the-badge&logo=Linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/tran-dylan/)](https://www.linkedin.com/in/tran-dylan/)
 [![GitHub Dyan Tran](https://img.shields.io/github/followers/dylan1607?label=follow&style=for-the-badge&logo=Github&logoColor=white&color=071A2C)](https://github.com/dylan1607)
 
 # 📖 Table of Contents
